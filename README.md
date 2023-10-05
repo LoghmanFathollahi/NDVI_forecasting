@@ -5,4 +5,4 @@
 # Precipitation: PERSIANN-CDR
 # Temperature: https://www.copernicus.eu/en/access-data
 # After normalizing the data we move to the second phase. The second phase includes defining the deep learning structure, building the model, training the model, and evaluating the model.
-
+# Note: The current file 'monthly_features.csv' just includes the year 2018 of the whole dataset.
